@@ -1,2 +1,2 @@
-# learning
+# clone-tabnews
 Aprendendo a programar.
